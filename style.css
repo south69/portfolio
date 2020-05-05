@@ -136,6 +136,11 @@ body {
   border-radius: 6px;
 }
 
+.p-blue-color {
+  color: blue;
+}
+
+
 .portfolio {
   margin: 0 0 120px;
 }
